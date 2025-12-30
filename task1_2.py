@@ -45,3 +45,4 @@ if __name__ == '__main__':
 
     min_val = find_min(root)
     print(f"Minimum value: {min_val}")  # Expected: 1
+    
